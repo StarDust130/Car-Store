@@ -20,12 +20,12 @@
 
 <ol>
     <li>Clone the repository to your local machine.</li>
-    <pre><code>git clone https://github.com/yourusername/super-cool-car-store.git</code></pre>
+    <pre><code>git clone https://github.com/StarDust130/Car-Store.git</code></pre>
     <li>Install dependencies.</li>
-    <pre><code>cd super-cool-car-store</code></pre>
+    <pre><code>cd Car-Store</code></pre>
     <pre><code>npm install</code></pre>
     <li>Start the development server.</li>
-    <pre><code>npm start</code></pre>
+    <pre><code>npm run dev</code></pre>
     <li>Open your browser and visit <a href="http://localhost:3000">http://localhost:3000</a> to access the Super Cool Car Store!</li>
 </ol>
 
