@@ -1,0 +1,74 @@
+/* Apply CSS to the navigation container */
+nav {
+  background-color: black;
+  padding: 10px;
+  display: flex;
+  width: 100%;
+  border-bottom: 2px solid gold;
+
+  top: 1;
+  margin: 0;
+
+  align-items: center;
+}
+
+/* Style the list items within the navigation */
+nav li {
+  list-style: none; /* Remove bullet points */
+  margin: 0;
+  margin-left: 50px;
+  font-size: 15px;
+}
+
+/* Style the links within the list items */
+nav a {
+  text-decoration: none; /* Remove underlines from links */
+  color: white;
+  font-weight: bold; /* Add some font weight */
+}
+
+input[type="text"] {
+  padding: 10px;
+  border-radius: 18px;
+  margin-left: 10px;
+  font-size: 16px; /* Increase font size */
+  margin-left: 450%;
+  border: none;
+  top: -150;
+  left: 1200px;
+  position: absolute;
+}
+input[type="text"]:focus {
+  outline: none;
+  border: none;
+}
+
+nav a:hover {
+  color: gold;
+  border: none;
+}
+/* Style for the search container */
+.search-container {
+  position: relative;
+  display: inline-block;
+}
+
+/* Style for the search input */
+.search-container input[type="text"] {
+  padding-right: 30px; /* Add padding on the right to make space for the search icon */
+}
+
+/* Style for the search icon */
+.search-container img {
+  position: absolute;
+  top: 21px;
+  right: -1417px;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+.cars-img {
+  width: 50px;
+  height: 50px;
+  margin-left: 80px;
+  cursor: pointer;
+}
