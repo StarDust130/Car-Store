@@ -31,31 +31,7 @@
 
 <h2>Project Structure</h2>
 
-<pre>
-super-cool-car-store/
-├── src/
-│   ├── components/
-│   │   ├── CarCard.js
-│   │   ├── NavBar.js
-│   │   ├── SearchBar.js
-│   │   └── ...
-│   ├── pages/
-│   │   ├── HomePage.js
-│   │   ├── CarCardPage.js
-│   │   └── ...
-│   ├── styles/
-│   │   ├── car-card.css
-│   │   ├── nav.css
-│   │   ├── ...
-│   └── App.js
-├── content/
-│   ├── carData.js
-│   └── ...
-├── ...
-├── README.md
-├── package.json
-└── ...
-</pre>
+
 
 <h2>Contributions</h2>
 
